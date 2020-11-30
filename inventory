@@ -1,0 +1,6 @@
+[vm-1]
+35.242.154.137 
+[vm-1:vars]
+ansible_user=michaela6543
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'
+ansible_ssh_private_key_file=/home/michaela6543/.ssh/ansible_id_rsa
